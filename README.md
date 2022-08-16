@@ -10,7 +10,7 @@
      https://www.youtube.com/watch?v=1m07Y0Btgt0
      
   2. 다리 받임대
-  https://www.smartcitytoday.co.kr/news/articleView.html?idxno=23949
+     바디를 잘 활용
   
   3. 회전:벡터 트러스트(Vectored Thrust·추력 가변형)
      https://mobile.newsis.com/view.html?ar_id=NISX20210709_0001507786
