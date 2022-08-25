@@ -11,6 +11,9 @@ https://www.libertine.co.uk/
 https://freikolben.ch/en/daniel-hagen.shtml
 
 https://ieeexplore.ieee.org/document/8770996
+[https://grabcad.com/library/free-piston-engine-2
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001855325
+
 
 
 https://www.matec-conferences.org/articles/matecconf/pdf/2017/45/matecconf_ses2017_02007.pdf
