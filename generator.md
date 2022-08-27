@@ -1,7 +1,7 @@
 ## 가솔린엔진을 이용 수소 발전
 ```
 https://www.youtube.com/watch?v=JuxQLEDccsU
-
+https://www.youtube.com/watch?v=pbRMDnW3OKA       발전기와 베터리 팩 쿨링
 
 ```
 
