@@ -1,7 +1,13 @@
 ## 가솔린엔진을 이용 수소 발전
 ```
+https://www.youtube.com/watch?v=pbRMDnW3OKA   기본영상/    발전기와 베터리 팩 쿨링
+
+https://www.youtube.com/watch?v=dO_KzlFWamc
+https://korean.alibaba.com/product-detail/Foxtech-Halo-2000-Gasoline-Engine-Generator-60831798456.html
+https://www.brycus.co.uk/electric-generators-a468/  제품 3kW 제품 208cc genergy 
+
 https://www.youtube.com/watch?v=JuxQLEDccsU
-https://www.youtube.com/watch?v=pbRMDnW3OKA       발전기와 베터리 팩 쿨링
+
 
 ```
 
