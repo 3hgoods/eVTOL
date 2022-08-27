@@ -27,6 +27,15 @@ https://grabcad.com/library/free-piston-250cc-genset
 
 
 
+원리
+https://reader.elsevier.com/reader/sd/pii/S0360319920306352?token=8EAD153F182A17CE1167B0827332AFC5CCA3A9314C3FADCDFAE8E5D5B79526635F506C2A2931AE4D2AF7F96C763DE387&originRegion=us-east-1&originCreation=20220827040839
+
+스프링 복원
+https://www.youtube.com/watch?v=ZSJFPb8030g  - 고체 스프링
+https://www.youtube.com/watch?v=bSPRT1JAXj4  - 에어스프링
+https://www.intelline.ca/                     - 확인 안됨
+
+
 
 ```
 
