@@ -64,5 +64,20 @@ http://www.paritycryo.com/
 
 ```
 
+## 리니어 엔진 만들기
+
+```
+- 부품
+* https://m.serpentkorea.co.kr/main/index
+
+https://www.freikolben.ch/en/linear-alternator
+https://grabcad.com/library/free-piston-engine-2
+
+https://www.mikalsen.eu/papers/FPEreview.pdf
+
+
+
+
+```
 
 
