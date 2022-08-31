@@ -43,6 +43,8 @@
 * https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=double-en&logNo=221823764592
 *FBG 광섬유센서는 작은 크기, 높은 감도, 가벼운 무게 및 전자기간섭에 대한 내성, 원격감지의 용이성 등의 장점으로 반도체 제조공정에 적용 가능하며, 광섬유 하나에 최대 30개의 FBG 센서를 최소 1mm 간격으로 내장할 수 있어 온도(-180℃ ~ 300℃ (long), 400°C (short)) 또는 변형율의 프로파일을 쉽게 모니터링 할 수 있습니다.
 
+ - KoreaScience[PDF] 선박엔진용 베어링 마모도 예측 및 모니터링 시스템 설계
+
 
 
 
