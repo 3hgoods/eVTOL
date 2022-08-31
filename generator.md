@@ -67,16 +67,30 @@ http://www.paritycryo.com/
 ## 리니어 엔진 만들기
 
 ```
+- 이론
+ * https://thekneeslider.com/free-piston-engine-as-efficient-as-fuel-cells/
+   https://www.fisba.com/en/mechanical-design-series-production-and-applications (접근법) 
+    
 - 부품
 * https://m.serpentkorea.co.kr/main/index
-
+ 
 https://www.freikolben.ch/en/linear-alternator
 https://grabcad.com/library/free-piston-engine-2
+https://grabcad.com/library/range-extender-free-piston-engine-1
+https://grabcad.com/library/free-piston-hydraulic-engine-1
+https://grabcad.com/library/free-piston-engine-1
+https://christophepocharienergietechnik.com/2020/01/01/worlds-only-dual-chamber-two-stroke-stoichiometric-diesel-engine/
+
+
 
 https://www.mikalsen.eu/papers/FPEreview.pdf
 
 
 
+ - 다른 부품
+ https://thangs.com/designer/juankmed/3d-model/Rotary-Engine-Wankel-Motor-Rotativo-Wankel-7262
+ https://www.3dcadbrowser.com/3d-model/mazda-13b-rotary-engine
+ 
 
 ```
 
