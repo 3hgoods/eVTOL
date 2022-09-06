@@ -94,4 +94,14 @@ https://www.mikalsen.eu/papers/FPEreview.pdf
 
 ```
 
+## design
+
+```
+https://grabcad.com/nguyen.dien-1/models
+![image](https://user-images.githubusercontent.com/12123041/188622271-8172e1e8-e5bd-4fee-bfad-4e05ad9f1b5d.png)
+
+
+
+```
+
 
