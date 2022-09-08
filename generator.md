@@ -1,3 +1,14 @@
+## design
+
+```
+- https://grabcad.com/nguyen.dien-1/models
+- liquid 엔진 (배기관련 과거정보)
+
+
+
+```
+
+
 ## 가솔린엔진을 이용 수소 발전
 ```
 https://www.richenpower.com/blank/h2plus-hybrid-engine
@@ -104,14 +115,6 @@ https://www.mikalsen.eu/papers/FPEreview.pdf
 
 ```
 
-## design
 
-```
-https://grabcad.com/nguyen.dien-1/models
-![image](https://user-images.githubusercontent.com/12123041/188622271-8172e1e8-e5bd-4fee-bfad-4e05ad9f1b5d.png)
-
-
-
-```
 
 
