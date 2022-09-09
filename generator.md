@@ -1,7 +1,7 @@
 ## basic info
 ```
 - http://journal.hydrogen.or.kr/xml/33433/33433.pdf
-- 
+- http://koreascience.or.kr/article/JAKO202009651162577.pdf
 
 ```
 ## design
