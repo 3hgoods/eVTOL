@@ -13,6 +13,16 @@ https://www.youtube.com/watch?v=tUq6sJgSTJk
 
 ```
 
+## 최소 진동 제품
+
+```
+innengine
+https://www.youtube.com/watch?v=t3zzD3sp5zo
+
+
+```
+
+
 ## 전략
 ```
 - 엔진을 직접 생산하지 않고 기존 제조된 제품을 구입한다. 
