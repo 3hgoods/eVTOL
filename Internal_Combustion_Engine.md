@@ -13,4 +13,13 @@ https://kr1lib.org/s/Internal%20Combustion%20Engine
 
 ```
 
+### injecter 가공필요 
+
+- https://grabcad.com/library/cylinder-head-piston-and-injector-cutaway-1
+
+```
+기계연은 시제품은 기존엔진에 인젝터를 삽입한 제품임. 
+
+```
+
 
