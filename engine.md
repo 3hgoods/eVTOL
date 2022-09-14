@@ -35,3 +35,35 @@ https://www.youtube.com/watch?v=t3zzD3sp5zo
 
 
 ```
+
+
+## PARTS
+
+```
+수소 연료 주입 인젝터는 Strata-Tech (Des Moines, IA, USA)
+https://www.strata-tech.com/progscrew.html
+
+연료 분사시기와 점화시기를 제어하기 위하여 ECU MoTeC M800
+https://www.fischermotorsports.com/fm-store/electrical-systems/motec-products/m100-gold-box-ecu-hundred-series/gold-ecus/motec-m800/
+
+
+코리올리 방식의 유량계 micromotion, CMFS010M
+https://www.ebay.com/itm/184914880096
+https://www.emerson.kr/ko-kr/catalog/micro-motion-pkg-ft-cmfs010m-9739mvd-ko-kr
+
+
+ 2행정 가솔린 엔진의  3W(210Xi)
+https://3w-modellmotoren.de/reseller/?lang=en
+https://www.flybestmodel.com/3w/1488-3w-210xi-b2-ts-cs.html € 2.280,00
+3W-210Xi B2 F TS - http://www.probuild-uk.co.uk/3w-210xi-b2-f-ts.html £2,380.00
+https://3w-international.com/wp-content/uploads/2017/10/3W_210XiTS_engine_Data.pdf
+
+
+엔진 부하 및 속도를 제어하기 위해서  엔진의 구동 및 모터링
+AC 동력계(HND Multilab, Seongnam, Korea)를 이용
+
+
+```
+
+
+
