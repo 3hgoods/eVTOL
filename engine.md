@@ -58,6 +58,10 @@ https://www.flybestmodel.com/3w/1488-3w-210xi-b2-ts-cs.html € 2.280,00
 3W-210Xi B2 F TS - http://www.probuild-uk.co.uk/3w-210xi-b2-f-ts.html £2,380.00
 https://3w-international.com/wp-content/uploads/2017/10/3W_210XiTS_engine_Data.pdf
 
+광주구매대행
+동양과학 062-523-7891
+5237891@daum.net
+
 
 엔진 부하 및 속도를 제어하기 위해서  엔진의 구동 및 모터링
 AC 동력계(HND Multilab, Seongnam, Korea)를 이용
