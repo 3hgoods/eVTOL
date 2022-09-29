@@ -6,6 +6,12 @@ https://www.coupang.com/vp/products/6753917468?itemId=15805617862&vendorItemId=8
 http://brushlessgimbal.ca/Power-Generator-FUEL-CELL/Drone-Engine-4.2kw-Water-Cooled-Hybrid-Electricity-Generator-DLE
 ---> 전력 출력 정보
 
+https://youtu.be/G9K2HWxrQMc 
+가벼운 발전자
+
+전기 dc 변환기
+https://global.yamaha-motor.com/np/hybrid-drone/
+
 
 
 ```
