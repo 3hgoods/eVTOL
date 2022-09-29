@@ -3,7 +3,7 @@
 ```
 
 https://www.coupang.com/vp/products/6753917468?itemId=15805617862&vendorItemId=83017765641&q=%EA%B0%80%EC%86%94%EB%A6%B0+%EB%B0%9C%EC%A0%84%EA%B8%B0+%EB%93%9C%EB%A1%A0&itemsCount=36&searchId=71ca89df0eba419798f9f741a81f70ee&rank=11&isAddedCart=
-
+http://brushlessgimbal.ca/Power-Generator-FUEL-CELL/Drone-Engine-4.2kw-Water-Cooled-Hybrid-Electricity-Generator-DLE
 ---> 전력 출력 정보
 
 
