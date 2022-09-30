@@ -19,6 +19,8 @@ https://global.yamaha-motor.com/np/hybrid-drone/
 https://henryquach.org/hybrid.html
 
 
+anternator 용어
+https://m.blog.naver.com/kspark222/221721748587
 
 ```
 
@@ -32,10 +34,15 @@ https://launchpointeps.com/controllers/
 
 
 ```
+## engine starter motor
+```
+https://youtu.be/kFsl5r34lCI
+https://www.youtube.com/watch?v=7eN1gxH6lE4
 
 
 
 
+```
 
 
 
