@@ -7,8 +7,10 @@ http://brushlessgimbal.ca/Power-Generator-FUEL-CELL/Drone-Engine-4.2kw-Water-Coo
 ---> 전력 출력 정보
 
 https://youtu.be/G9K2HWxrQMc 
-https://www.keri.re.kr/images/kr/sub04/V6-63.pdf
-가벼운 발전자
+https://www.keri.re.kr/images/kr/sub04/V6-63.pdf   -->  https://launchpointeps.com/products/ -->  https://launchpointeps.com/wp-content/uploads/2022/03/LP_DataSheetHPS055E031122.pdf
+
+https://www.youtube.com/watch?v=sKd6_pvxxSc
+가벼운 발전자  Axial Flux Permanent Magnet Generator
 
 전기 dc 변환기
 https://global.yamaha-motor.com/np/hybrid-drone/
@@ -19,6 +21,18 @@ https://henryquach.org/hybrid.html
 
 
 ```
+
+
+## drone 전력변환장치 (PMU, Power Management Unit)
+```
+
+
+
+
+```
+
+
+
 
 
 
