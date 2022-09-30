@@ -27,6 +27,8 @@ https://henryquach.org/hybrid.html
 ```
 
 
+https://www.semanticscholar.org/paper/Model-based-design-of-power-management-for-hybrid-Gruosso/68818d9233788d714c9ae50e8db238e9848b40b8
+https://launchpointeps.com/controllers/
 
 
 ```
