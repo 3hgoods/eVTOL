@@ -33,12 +33,15 @@ https://www.semanticscholar.org/paper/Model-based-design-of-power-management-for
 https://launchpointeps.com/controllers/
 
 
+https://www.icas.org/ICAS_ARCHIVE/ICAS2018/data/papers/ICAS2018_0067_paper.pdf
+
+
 ```
 ## engine starter motor
 ```
 https://youtu.be/kFsl5r34lCI
 https://www.youtube.com/watch?v=7eN1gxH6lE4
-
+https://youtu.be/o1ED4FQjDGk
 
 
 
