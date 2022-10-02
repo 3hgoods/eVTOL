@@ -1,3 +1,16 @@
+### parts - model 선정
+
+```
+https://www.slideshare.net/godfreynolan/dji-payload-sdk
+https://www.turbosquid.com/ko/3d-models/photoreal-drone-dji-matrice-model-1596247
+https://www.turbosquid.com/ko/3d-models/dji-matrice-300-rtk-3d-model-1576657
+https://www.turbosquid.com/ko/3d-models/photoreal-drone-dji-matrice-model-1596247
+https://www.turbosquid.com/ko/3d-models/photoreal-drone-dji-matrice-model-1596247
+https://www.turbosquid.com/ko/3d-models/dji-zenmuse-z30-camera-max/1139243
+
+```
+
+
 ## Gimbal - 선정
 
 ```
