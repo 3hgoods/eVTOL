@@ -18,8 +18,9 @@ Gasoline-oil mixing ratio :  50 : 1
 
 ```
 
-AC 동력계
+AC 동력계 + Dyno contoller
 Manufacturer : HND Multilab
 https://hnd-multilab.com/%EB%AA%A8%ED%84%B0-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AA%A8%EB%AF%B8%ED%84%B0-Motor-dynamometer
+https://hnd-multilab.com/forum/view/15069
 
 ```
