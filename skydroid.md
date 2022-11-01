@@ -10,5 +10,9 @@ Mount Mini Pix on Helicopter
 https://youtu.be/um655Uxnqnw
 
 
+Align Trex 700 Drone Helicopter with ArduPilot - Build and First Flights
+https://youtu.be/9VRchQTPK0s
+
+
 
 ```
