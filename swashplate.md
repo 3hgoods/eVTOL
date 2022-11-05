@@ -22,3 +22,12 @@ https://www.nairaland.com/3309602/how-make-swashplate
 https://www.helidirect.com/collections/collection-helicopters?page=3
 
 ```
+
+
+### 3d
+
+```
+https://grabcad.com/library/2way-swash-1
+
+```
+
