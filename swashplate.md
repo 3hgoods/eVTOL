@@ -31,3 +31,13 @@ https://grabcad.com/library/2way-swash-1
 
 ```
 
+
+## video - principle
+
+```
+https://www.youtube.com/channel/UClt6Gj73CZa0D3OM26z4GHA/videos
+
+
+```
+
+
