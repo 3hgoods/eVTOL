@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=ckG6B7WcKIU
 3d
 Planetary gearbox of the coaxial helicopter
 https://grabcad.com/library/planetary-gearbox-of-the-coaxial-helicopter-1
+https://www.printables.com/model/293058-stackable-heavy-duty-coaxial-planetary-gearbox/files
+
 
 paper
 https://vtol.org/files/dmfile/3rdPlaceGraduate_IndianInstitute_ExecSummary_Vibhram1.pdf
