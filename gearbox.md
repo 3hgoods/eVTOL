@@ -6,6 +6,13 @@
 - https://www.made-in-china.com/showroom/c229d4a5bddcad17/product-detailhvDEznudbyRc/China-Coaxial-Forward-and-Reverse-Gear-Box-Design-Differential-Reverse-Gear-Box-Design.html
 
 - https://blog.naver.com/bsk0916/222745553578
+- https://www.aliexpress.com/item/1005002376788531.html?spm=a2g0o.ppclist.product.62.5b7eHQ6cHQ6cbs&pdp_npi=2%40dis%21KRW%21%E2%82%A9%2054%2C125%21%E2%82%A9%2054%2C125%21%21%21%21%21%402101d1b816689752734633559e4226%2112000030166347192%21btf&_t=pvid:0badb993-a14c-46b7-af7e-05f93ef13da2&afTraceInfo=1005002376788531__pc__pcBridgePPC__xxxxxx__1668975273
+- https://www.aliexpress.com/item/1005004073846749.html?spm=a2g0o.ppclist.product.140.5b7eHQ6cHQ6cbs&pdp_npi=2%40dis%21KRW%21%E2%82%A9%20210%2C031%21%E2%82%A9%20210%2C031%21%21%21%21%21%402101d1b816689755673623454e4226%2112000027950901232%21btf&_t=pvid:141144a4-7ca7-459e-842a-23a22468553c&afTraceInfo=1005004073846749__pc__pcBridgePPC__xxxxxx__1668975567
+
+- https://shop.sdp-si.com/catalog/?cid=p162
+
+* 3d print , 4방향 잡기
+- https://www.thingiverse.com/thing:4898912
 
 ```
 
