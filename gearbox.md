@@ -5,6 +5,7 @@
 - https://www.diytrade.com/china/pd/19517497/Coaxial_positive_and_negative_mechanism_noiseless_design_and_manufacture.html
 - https://www.made-in-china.com/showroom/c229d4a5bddcad17/product-detailhvDEznudbyRc/China-Coaxial-Forward-and-Reverse-Gear-Box-Design-Differential-Reverse-Gear-Box-Design.html
 
+- https://blog.naver.com/bsk0916/222745553578
 
 ```
 
