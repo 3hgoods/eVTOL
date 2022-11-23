@@ -45,3 +45,19 @@ https://www.cad-modelltechnik-jung.de/industrie-hubschrauber-drohnen.html%20koax
 
 
 ```
+
+
+
+- 기성품 활용방법
+
+```
+- https://www.amazon.com/Differential-Gearbox/s?k=Differential+Gearbox
+
+
+
+
+
+```
+
+
+
