@@ -52,8 +52,10 @@ https://www.cad-modelltechnik-jung.de/industrie-hubschrauber-drohnen.html%20koax
 
 ```
 - https://www.amazon.com/Differential-Gearbox/s?k=Differential+Gearbox
+- https://4xstore.com/yukon-30-spline-standard-open-loaded-carrier-case-gm-8-6-inch-yukon-gear-axle-yc-g40048044-fdhc/
 
-
+- 오토바이 부품으로
+- http://haobike.co.kr/mypages/wish/  naver 로그인
 
 
 
