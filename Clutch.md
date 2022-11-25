@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=OXbWhSj_Ibo
 
 
 
-- 교체툴
+- 교체툴 Clutch Removal Tool Kit 
 https://www.japgmowers.co.uk/clutch-removal-tool-kit-for-partner-chainsaws-see-list-includes-piston-stop-part-11492-p.asp
 https://www.hlsproparts.com/Clutch-Removal-Tool-for-Husqvarna-chainsaws-p/d31115.htm
 https://www.youtube.com/watch?v=akRk7F6ento
