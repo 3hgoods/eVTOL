@@ -16,6 +16,11 @@
 
 ```
 
+```
+
+- 기둥 지지대 포함 디자인
+https://grabcad.com/library/differential-gearbox-18
+```
 
 
 
