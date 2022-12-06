@@ -15,4 +15,9 @@ https://www.hlsproparts.com/Clutch-Removal-Tool-for-Husqvarna-chainsaws-p/d31115
 https://www.youtube.com/watch?v=akRk7F6ento
 
 
+툴이 필요없는 방식 - 이해 못함.
+https://www.youtube.com/watch?v=bDDx2C2lDos
+
+
+
 ```
