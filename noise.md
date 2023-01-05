@@ -10,6 +10,8 @@
 
 이 개념의 초기 실험은 stacked co-rotating rotors의 잠재성이 기존의 두쌍의 로터 접근법보다 상당히 조용하고 비행기의 성능을 향상시킨다는 것을 보여주었다. 현재까지 stacked co-rotating rotors는 기존 비행체에 장착되지 않았다
 출처 https://milidom.net/news/1261918
+논문
+https://www.researchgate.net/profile/George-Jacobellis/publication/351930826_Experimental_and_computational_investigation_of_stacked_rotor_performance_in_hover/links/61098f191e95fe241aac15b7/Experimental-and-computational-investigation-of-stacked-rotor-performance-in-hover.pdf
 
 https://m.youtube.com/watch?v=BVxUPJR-BRM
 
