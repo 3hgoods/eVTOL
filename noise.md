@@ -13,3 +13,7 @@
 
 https://m.youtube.com/watch?v=BVxUPJR-BRM
 
+
+
+동축반전 소음 경감. 여기도 멀티 드론 고려함
+http://www.koreascience.or.kr/article/JAKO202123162018705.pdf
