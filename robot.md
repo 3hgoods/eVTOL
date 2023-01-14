@@ -11,6 +11,11 @@
 
 * 75V 혹은 48V가 필요.   44.4Vs는 12S 72V는 20S  흔하지 않지만 51.8V 14S1P
 - https://genstattu.com/tattu-plus-3.0-25000mah-51-8v-14s1p-25c-lipo-smart-battery-pack-with-molex-plug/
+- https://ko.aliexpress.com/item/4001080845996.html?gatewayAdapt=glo2kor
+
+* 밧데리가 44.4 V 기준일때 DC-DC convert가 필요할 듯함.
+
+* 추가 모터 회전이슈..
 
 
 ```
