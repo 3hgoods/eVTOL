@@ -43,6 +43,16 @@ https://www.youtube.com/watch?v=t3zzD3sp5zo
 수소 연료 주입 인젝터는 Strata-Tech (Des Moines, IA, USA)
 https://www.strata-tech.com/progscrew.html
 
+borgwarner e
+https://www.borgwarner.com/technologies/highlight/hydrogen-solutions/
+
+
+수소용기
+https://www.h2news.kr/news/article.html?no=9413
+https://www.doosanmobility.com/kr/products/hydrogen-tank/
+
+
+
 한국논문
 https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202200017677&dbt=TRKO
 
