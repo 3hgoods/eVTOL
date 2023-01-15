@@ -52,6 +52,10 @@ https://www.h2news.kr/news/article.html?no=9413
 https://www.doosanmobility.com/kr/products/hydrogen-tank/
 
 
+감압밸브
+http://horizonfuelcell.co.kr/bbs/board.php?bo_table=hsub02_04&wr_id=36&navi=02&lnb=05
+
+
 
 한국논문
 https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202200017677&dbt=TRKO
