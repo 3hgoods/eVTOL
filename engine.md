@@ -43,6 +43,10 @@ https://www.youtube.com/watch?v=t3zzD3sp5zo
 수소 연료 주입 인젝터는 Strata-Tech (Des Moines, IA, USA)
 https://www.strata-tech.com/progscrew.html
 
+한국논문
+https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202200017677&dbt=TRKO
+
+
 연료 분사시기와 점화시기를 제어하기 위하여 ECU MoTeC M800
 https://www.fischermotorsports.com/fm-store/electrical-systems/motec-products/m100-gold-box-ecu-hundred-series/gold-ecus/motec-m800/
 
